@@ -1,2 +1,2 @@
-# cambridgeTranslatorAddon
-Anki add-on to query cambridge dictionary
+# webCrawlerAnkiAddon
+Anki add-on to query the web for informations
